@@ -1,6 +1,6 @@
 # Smooth-graph-learning-for-functional-connectivity-estimation
 
-A presentation of the article Smooth graph learning for functional connectivity (SGFC) estimation
+A presentation of the article "Smooth graph learning for functional connectivity (SGFC) estimation"
 
 Authors: 
 Siyuan Gao, Xinyue Xia, Dustin Scheinost, Gal Mishne
